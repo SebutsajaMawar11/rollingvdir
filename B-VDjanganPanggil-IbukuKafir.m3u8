@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:4
+#EXT-X-STREAM-INF:BANDWIDTH=4105318,AVERAGE-BANDWIDTH=1200439,RESOLUTION=1920x1080,CODECS="avc1.640028,mp4a.40.2"
+https://dubbing.s3.ap-southeast-1.wasabisys.com/upload/videos/2026/03/qZUR88AVlfvVVx1B4bsx_02_2d270fadffe1c7d1c3bece73c4b557e6_video_720p_converted.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=PK26YWAJDUSTE9RPMQ0P%2F20260321%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260321T141630Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Signature=c9236d6c14fc19ce04937d40b44f92b90cf1e556f28cab17db20ebb20c1542ee
