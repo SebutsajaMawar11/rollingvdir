@@ -1,3 +1,5 @@
 #EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1280x720
-https://dubbing.s3.ap-southeast-1.wasabisys.com/upload/videos/2026/03/qZUR88AVlfvVVx1B4bsx_02_2d270fadffe1c7d1c3bece73c4b557e6_video_720p_converted.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=PK26YWAJDUSTE9RPMQ0P%2F20260321%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260321T141630Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Signature=c9236d6c14fc19ce04937d40b44f92b90cf1e556f28cab17db20ebb20c1542ee
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=863559,RESOLUTION=1920x1080,FRAME-RATE=24.000,CODECS="avc1.4d4028,mp4a.40.2",VIDEO-RANGE=SDR
+https://edge1-waw-sprintcdn.r66nv9ed.com/hls2/06/10879/4tuvv1fsb0na_x/index-v1-a1.m3u8?t=5x0WKwNlXr67FOKXrVsffuO91hv8alEhimVEEHAnATw&s=1774159769&e=10800&f=54399759&srv=1060&asn=&sp=5500&p=0
+
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=96178,RESOLUTION=1920x1080,CODECS="avc1.4d4028",URI="https://edge1-waw-sprintcdn.r66nv9ed.com/hls2/06/10879/4tuvv1fsb0na_x/iframes-v1-a1.m3u8?t=5x0WKwNlXr67FOKXrVsffuO91hv8alEhimVEEHAnATw&s=1774159769&e=10800&f=54399759&srv=1060&asn=&sp=5500&p=0",VIDEO-RANGE=SDR
