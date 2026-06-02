@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=4517642,CODECS="avc1.640029,mp4a.40.2",RESOLUTION=1920x1080
+https://edge17.vedge.infomaniak.com/livecast/ik:africa24sport/chunklist_w738806707.m3u8
